@@ -1,0 +1,11 @@
+.button:focused {
+    -fx-focus-color: transparent; 
+    -fx-background-insets: -1.4, 0, 1, 2;
+}
+
+.button:hover {
+    -fx-background-color: #d6d6d6;
+}
+.button:pressed, .button:default:hover:pressed {
+  -fx-background-color: #293d3d;
+}

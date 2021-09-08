@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name: Yash      email: yash.kamath@mail.utoronto.ca     utorid: kamathya
+
+Oct 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 24,2019
+	What I did yesterday:
+	What I will do today: Complete BUG 0.03 and Complete BUG 1.01
+	Obstacles I face: Dealing with JavaFx Errors
+
+Oct 25,2019
+	What I did yesterday: Complete BUG 0.03 and Complete BUG 1.01
+	What I will do today: Study for midterm
+	Obstacles I face: Nothing
+
+Oct 26,2019
+	What I did yesterday: Study for midterm
+	What I will do today: Complete US 1.03
+	Obstacles I face: git merge
+
+Oct 27,2019
+	What I did yesterday: Complete US 1.03 and finished first sprint
+	What I will do today: Study for midterm 
+	Obstacles I face: Nothing
+
+Oct 28,2019
+	What I did yesterday: Study for midterm 
+	What I will do today: Finish US 1.06
+	Obstacles I face: Trying to change the color of buttons using appropriate imports
+
+Oct 29,2019
+	What I did yesterday: Finish US 1.06
+	What I will do today: Finish US 1.11
+	Obstacles I face: The game would not allow user to chooses a move after reset
+
+Oct 30,2019
+	What I did yesterday: Finish US 1.11
+	What I will do today: Start US 1.12
+	Obstacles I face: The undo and reset were not properly functioning together. Once reset the player could still undo.
+
+Oct 31,2019
+	What I did yesterday: Start US 1.11
+	What I will do today: Finish US 1.12
+	Obstacles I face: The label was not updating properly.
+
+Nov 1,2019
+	What I did yesterday: Finish US 1.12
+	What I will do today: Study for midterm
+	Obstacles I face: Nothing
+
+Nov 2,2019
+	What I did yesterday: Study for midterm
+	What I will do today: Testing program to find bugs.
+	Obstacles I face: Discovered a bug with US 1.12 (label changed when user clicked reset and undo)
+
+Nov 3,2019
+	What I did yesterday: Discover the bug with US 1.12
+	What I will do today: Study for midterm
+	Obstacles I face: Nothing
+
+Nov 4,2019
+	What I did yesterday: Study for midterm
+	What I will do today: Analyzing and testing the GUI for bugs
+	Obstacles I face: Making sure the interface functions properly according to the sprint backlog description
+
+Nov 5,2019
+	What I did yesterday: Debugging the GUI
+	What I will do today: Finding at least one possible way on how to implement human versus greedy
+	Obstacles I face: Trying to follow proper coding instructions and not modifying any default code 
+
+Nov 6,2019
+	What I did yesterday: Attempting to find a way on how to implement human versus greedy
+	What I will do today: Study for midterm
+	Obstacles I face: Nothing
+
+Nov 7,2019
+	What I did yesterday: Study for midterm
+	What I will do today: Trying to find a way on how to change a player using the radio buttons
+	Obstacles I face: Trying to understand out US1.071 can help us complete 1.08
+
+Nov 8,2019
+	What I did yesterday: Seeing how US1.071 can help us do US1.08
+	What I will do today: Have to complete a CSC236 Assignment
+	Obstacles I face: Nothing for today
+
+Nov 9,2019
+	What I did yesterday: Finishing assignment for other course
+	What I will do today: Complete US 1.13 and create an animation for hovering buttons
+	Obstacles I face: Learning how to use CSS in order to do this
+
+Nov 10,2019
+	What I did yesterday: Almost finished US 1.13
+	What I will do today: Studying for CSC236 Midterm
+	Obstacles I face: Nothing
+
+Nov 11,2019
+	What I did yesterday: Nothing
+	What I will do today: Studying for CSC236 Midterm
+	Obstacles I face: Nothing
+
+Nov 12,2019
+	What I did yesterday:Nothing
+	What I will do today: Studying for CSC236 Midterm
+	Obstacles I face: Nothing
+
+Nov 13,2019
+	What I did yesterday: Study for CSC236 Midterm
+	What I will do today: Have Midterm for CSC236
+	Obstacles I face: Nothing
+
+Nov 14,2019
+	What I did yesterday: Have Midterm for CSC236
+	What I will do today: Study for MAT135
+	Obstacles I face: Nothing
+
+Nov 15,2019
+	What I did yesterday: Study for MAT135
+	What I will do today: Trying to find ways I can implement other different design patterns
+	Obstacles I face: Understanding how those design patterns can by integrated with other design patterns.
+
+Nov 16,2019
+	What I did yesterday: Looking how to implement other design patterns
+	What I will do today: Discovered Command Design Pattern can be used for Undo
+	Obstacles I face: Trying to identify which classes are which components in the design pattern.
+
+Nov 17,2019
+	What I did yesterday: Trying to identify which classes are which components in the design pattern.
+	What I will do today: Debugging the program.
+	Obstacles I face: Nothing.
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

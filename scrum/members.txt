@@ -1,0 +1,9 @@
+Member1 name: Adrian Lam     			email: adrian.lam@mail.utoronto.ca      		utorid: lamadri2
+Member2 name: Rishith Nellippillil    	email: rishith.nellippillil@mail.utoronto.ca    utorid: nellippi
+Member3 name: Yash Kamath        		email: yash.kamath@mail.utoronto.ca        		utorid: kamathya
+Member4 name: Manav Bhojak        		email: manav.bhojak@mail.utoronto.ca        	utorid: bhojakma
+
+
+Your coach: Ling Xiao Lu
+Email: lingxiao.lu@mail.utoronto.ca
+Send me an email if you have an questions! Remember to include your group name in the title!

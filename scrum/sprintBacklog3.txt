@@ -1,0 +1,46 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 3 Nov 03-Nov 09, 2019
+# Sprint 3 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.101 : bhojakma : STATUS : Complete
+NAME     : Implement Strategy Pattern
+OWNER    : Manav Bhojak
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL : 1 hour
+ISSUE    : For hints we need the players' move algorithms to be independent
+from the players themselves and so we reimplement them with strategy design 
+pattern. It allows for code reuse and a more elegant design.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.13 : kamathya : STATUS : InProgress
+NAME     : Animation
+OWNER    : Yash Kamath
+PRIORITY : 2
+ESTIMATE : 1 hours    ACTUAL : 2 hours 
+ISSUE    : When a user makes a move, they see an animation associated
+with their placing a piece. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.09 : nellippi : STATUS : InProgress
+NAME     : Othello Timer Fixed Time
+OWNER    : Rishith Nellippillil
+PRIORITY : (1,2,3)
+ESTIMATE : 4 hours    ACTUAL :  
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the time is fixed to 5 minutes/player.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.091 : nellippi : STATUS : NotStarted
+NAME     : Othello Timer User Specified Time
+OWNER    : Rishith Nellippillil
+PRIORITY : (1,2,3) 
+ESTIMATE : 4 hours   ACTUAL :  
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the user is allowed to specify the time for each user.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------

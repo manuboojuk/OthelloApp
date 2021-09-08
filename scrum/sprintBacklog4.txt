@@ -1,0 +1,236 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 4 Nov 10-Nov 16, 2019
+# Sprint 4 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.131 : kamathya : STATUS : Complete
+NAME     : Animation
+OWNER    : Yash Kamath
+PRIORITY : 2
+ESTIMATE : 1 hour     ACTUAL : 2 hours 
+ISSUE    : When a user hovers over or clicks on a piece, it changes colour.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.13 : lamadri2 : STATUS : Complete
+NAME     : Animation Fade Transition
+OWNER    : Adrian Lam
+PRIORITY : 2
+ESTIMATE : 1 hour     ACTUAL : 2 hours 
+ISSUE    : When a user makes a move, they see an animation associated
+with their placing a piece. Pieces changed have fade transitions.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.09 : lamadri2 : STATUS : Complete
+NAME     : Fix GUI issues
+OWNER    : Adrian Lam
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL : 1 hour 
+ISSUE    : Fix issue where some words are not entirely displayed when 
+choosing certain P1 and P2 player types, remove huge empty space in GUI, 
+disable focus ring for the buttons so the first button in the board isn't 
+always highlighted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.15 : bhojakma : STATUS : Complete
+NAME     : Better strategy
+OWNER    : Manav Bhojak
+PRIORITY : 1
+ESTIMATE : 2 days   ACTUAL :  4 days
+ISSUE    : A user can play the following, improved strategy:
+Choose a corner if available,
+otherwise choose a side if available, otherwise choose a space that
+maximizes the players presence in the middle 4 by 4 square of the board,
+otherwise choose the location maximizing the movers presence on the board. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.08 : lamadri2 : STATUS : Complete
+NAME     : Opponent Chooser Implementation
+OWNER    : Adrian Lam
+PRIORITY : (1,2,3)
+ESTIMATE : 2 hours   ACTUAL :  8 hours
+ISSUE    : An extension to Opponent Chooser, we implement the users choice
+of opponent, so the Human can actually play the select opponent. Reminder:
+the user should be able to switch opponents at any time during game play.
+THe current game continues with the new opponent.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.09 : nellippi : STATUS : Complete
+NAME     : Othello Timer Fixed Time
+OWNER    : Rishith Nellippillil
+PRIORITY : (1,2,3)
+ESTIMATE : 4 hours    ACTUAL : 1 day
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the time is fixed to 5 minutes/player.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.091 : nellippi : STATUS : Complete
+NAME     : Othello Timer User Specified Time
+OWNER    : Rishith Nellippillil
+PRIORITY : (1,2,3) 
+ESTIMATE : 4 hours   ACTUAL : 1 hour
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the user is allowed to specify the time for each user.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.092 : nellippi : STATUS : Complete
+NAME     : Othello Timer Bugs
+OWNER    : Rishith Nellippillil
+PRIORITY : (1,2,3) 
+ESTIMATE : 2 hours   ACTUAL : 1.5 hours 
+ISSUE    : When undo is clicked till the beginning of the game and when the reset button is
+clicked right after, the timer is not synced properly and the timer for X goes twice as quickly.
+Also, when clicking reset at the beginning of the game, and then doing moves and clicking undo,
+both X and O's timers decrement.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.093 : nellippi : STATUS : Complete
+NAME     : Othello Timer User Specified Time Typer Invalid Input Bug
+OWNER    : Rishith Nellippillil
+PRIORITY : (1,2,3) 
+ESTIMATE : 2 hours   ACTUAL : 3 hours
+ISSUE    : Invalid inputs crash the game
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.10 : bhojakma : STATUS : Complete
+NAME     : AI Hint
+OWNER    : Manav Bhojak
+PRIORITY : 1
+ESTIMATE : 1 day    ACTUAL : 4 hours 
+ISSUE    : When the user is playing, the current mover can select a gui
+component (click a button etc) and a hint will display. For this user story
+just display the (row, col) of the hint.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.102 : bhojakma : STATUS : Complete
+NAME     : Hint selection
+OWNER    : Manav Bhojak
+PRIORITY : 1
+ESTIMATE : 4 hours    ACTUAL : 2 hours
+ISSUE    : Make a checkbox that allows the player to select what type of hint 
+they want (Greedy, Random or Advanced) when the Hint button is pressed.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.17 : nellippi : STATUS : InProgress
+NAME     : Use Visitor for Othello board
+OWNER    : Rishith Nellippillil
+PRIORITY : (1,2,3)
+ESTIMATE : 1 day    ACTUAL : 
+ISSUE    : There is a lot of replicated code in Othello and OthelloBoard, all of
+which visits the board in one of a few different ways. Implement the 
+visitor design pattern on the OthelloBoard and rewrite code using othello
+and othello board to now create visitors and use them as appropriate.
+
+NOTE: Some private methods could be removed as a result of this.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 9.99 : nellippi : STATUS : Completed
+NAME     : Architecture Document
+OWNER    : Rishith Nellippillil
+PRIORITY : (1,2,3)
+ESTIMATE : 1 hour    ACTUAL : 1 hour 
+ISSUE    : Complete architecture.txt outlining any interesting features about
+your design. You should outline which design patterns you used where.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.103 : bhojakma : STATUS : Complete
+NAME     : Highlighted Hint
+OWNER    : Manav Bhojak
+PRIORITY : 3
+ESTIMATE : 2 hours    ACTUAL : 4 hours
+ISSUE    : Instead of displaying the (row,col) we highlight the position
+on the board.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.104 : bhojakma : STATUS : Complete
+NAME     : Permanent Hint
+OWNER    : Manav Bhojak
+PRIORITY : 3
+ESTIMATE : 4 hours    ACTUAL : 2 hours 
+ISSUE    : Instead of having a button to get a hint, the player can select an option
+that makes it so that the hint is highlighted at all times in the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.17 : kamathya : STATUS : Complete
+NAME     : Command Design Pattern for Undo
+OWNER    : Yash Kamath
+PRIORITY : 2
+ESTIMATE : 1 day    ACTUAL :  
+ISSUE    : Implement Command Design Pattern for Undo.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.081 : lamadri2 : STATUS : Complete
+NAME     : Starting screen
+OWNER    : Adrian Lam
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL : 2 hours 
+ISSUE    : Make a starting screen that allows the player to choose the colour
+they wish to play as.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.10 : lamadri2 : STATUS : Complete
+NAME     : Fix hint after reset and undo
+OWNER    : Adrian Lam
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 30 minutes
+ISSUE    : Hint still keeps track of the old othello board when the user
+clicks reset or undo
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.101 : lamadri2 : STATUS : Complete
+NAME     : Fix permanent hint after reset and undo
+OWNER    : Adrian Lam
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 1 hour
+ISSUE    : Permanent hint does not work properly after reset or undo.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.102 : lamadri2 : STATUS : Complete
+NAME     : Fix multiple hints showing 
+OWNER    : Adrian Lam
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 1 hour
+ISSUE    : When the user clicks hint with permanent hints on, 2 hints are shown
+when the hint type is random
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.103 : lamadri2 : STATUS : Complete
+NAME     : Update hint label after a move
+OWNER    : Adrian Lam
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 1 hour
+ISSUE    : The hint label is not updated after certain user action combinations.
+(making a move after clicking hint, resetting after clicking hint, clicking
+undo with permanent hint on etc.)
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.02 : lamadri2 : STATUS : Complete
+NAME     : Fix GUI not displaying last move
+OWNER    : Adrian Lam
+PRIORITY : 1
+ESTIMATE : 10 minutes  ACTUAL : 5 minutes 
+ISSUE    : The GUI does not display the final move.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.021 : lamadri2 : STATUS : Complete
+NAME     : Fix vBoard inefficiency
+OWNER    : Adrian Lam
+PRIORITY : 1
+ESTIMATE : 1 hour  ACTUAL :  1 hour
+ISSUE    : The vBoard layers buttons on top of previous ones, which makes
+game progressively slower
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.09 : nellippi : STATUS : Complete
+NAME     : Negative Number Timer Bug
+OWNER    : Rishith Nellippillil
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 1 hour
+ISSUE    : When a negative time input was entered, the reset and undo buttons
+would reset the timer to those incorrect negative inputs, instead of defaulting to 300
+seconds.
+--------------------------------------------------------------------------

@@ -1,0 +1,224 @@
+# Fill in, commit and push each day.
+Member name: Adrian Lam     email: adrian.lam@mail.utoronto.ca    utorid: lamadri2  
+
+Oct 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 21,2019
+	What I did yesterday:
+	What I will do today: 
+	Obstacles I face:
+
+Oct 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 25,2019
+	What I did yesterday: was sick
+	What I will do today: BUG0.01, US1.011
+	Obstacles I face: learning how to observer/observable
+
+Oct 26,2019
+	What I did yesterday: US1.011
+	What I will do today: US1.02
+	Obstacles I face: git merge
+
+Oct 27,2019
+	What I did yesterday: US1.02
+	What I will do today: nothing
+	Obstacles I face: feel bad for doing nothing
+
+Oct 28,2019
+	What I did yesterday: nothing
+	What I will do today: US1.06
+	Obstacles I face: using images
+
+Oct 29,2019
+	What I did yesterday: US1.06
+	What I will do today: US1.07
+	Obstacles I face: understanding user story
+
+Oct 30,2019
+	What I did yesterday: US1.07
+	What I will do today: study for csc207 midterm
+	Obstacles I face: 
+
+Oct 31,2019
+	What I did yesterday: study for csc207 midterm
+	What I will do today: study for csc207 midterm
+	Obstacles I face:
+
+Nov 1,2019
+	What I did yesterday: study for csc207 midterm
+	What I will do today: csc207 midterm
+	Obstacles I face:
+
+Nov 2,2019
+	What I did yesterday: csc207 midterm
+	What I will do today: study for csc290 midterm
+	Obstacles I face:
+
+Nov 3,2019
+	What I did yesterday: study for csc290 midterm
+	What I will do today: study for csc290 midterm
+	Obstacles I face:
+
+Nov 4,2019
+	What I did yesterday: study for csc290 midterm
+	What I will do today: csc290 midterm
+	Obstacles I face:
+
+Nov 5,2019
+	What I did yesterday: csc290 midterm
+	What I will do today: study for mat223 test
+	Obstacles I face:
+
+Nov 6,2019
+	What I did yesterday: study for mat223 test
+	What I will do today: study for mat223 test
+	Obstacles I face:
+
+Nov 7,2019
+	What I did yesterday: study for mat223 test
+	What I will do today: mat223 test
+	Obstacles I face: 
+
+Nov 8,2019
+	What I did yesterday: mat223 test
+	What I will do today: work on US1.08
+	Obstacles I face: unable to run program after pulling (Error: Could not find 
+	or load main class ca.utoronto.utm.othello.viewcontroller.OthelloApplication)
+
+Nov 9,2019
+	What I did yesterday: fail to fix the error
+	What I will do today: try using vm
+	Obstacles I face: it says "No such file or directory" when i try to download 
+	csc207vm2019.zip
+
+Nov 10,2019
+	What I did yesterday: fail to fix the error again
+	What I will do today: work on it in the lab - BUG1.01
+	Obstacles I face: CSS
+
+Nov 11,2019
+	What I did yesterday: BUG1.09
+	What I will do today: US1.13
+	Obstacles I face: learning to use javafx.animation
+
+Nov 12,2019
+	What I did yesterday: US1.13
+	What I will do today: CSC290 assignment
+	Obstacles I face: 
+
+Nov 13,2019
+	What I did yesterday: CSC290 assignment
+	What I will do today: Study for MAT135 test
+	Obstacles I face:
+
+Nov 14,2019
+	What I did yesterday: Study for MAT135 test
+	What I will do today: Study for MAT135 test
+	Obstacles I face:
+
+Nov 15,2019
+	What I did yesterday: Study for MAT135 test
+	What I will do today: US1.08
+	Obstacles I face: allowing the user to switch between p1 and p2
+
+Nov 16,2019
+	What I did yesterday: US1.08
+	What I will do today: US1.08, US1.081
+	Obstacles I face: making starting screen for player to choose p1 or p2
+
+Nov 17,2019
+	What I did yesterday: US1.08, US1.081
+	What I will do today: BUG1.10, BUG1.101, BUG1.102, BUG1.103, BUG1.02, BUG1.021
+	Obstacles I face: tracing code to find the issues
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

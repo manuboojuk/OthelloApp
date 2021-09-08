@@ -1,0 +1,223 @@
+# Fill in, commit and push each day.
+Member name: Rishith      email: rishith.nellippillil@mail.utoronto.ca     utorid: nellippi  
+
+Oct 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 26,2019
+	What I did yesterday:
+	What I will do today: Finish BUG 0.02 and complete US 1.04 
+	Obstacles I face: git merge
+
+Oct 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 30,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 31,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 1,2019
+	What I did yesterday: Studied for CSC207 midterm
+	What I will do today: CSC207 midterm
+	Obstacles I face: Doing the midterm
+
+Nov 2,2019
+	What I did yesterday:
+	What I will do today: Work on US1.09
+	Obstacles I face: Understanding how to use timer in GUI
+
+Nov 3,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 4,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 5,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 6,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 7,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 8,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 9,2019
+	What I did yesterday: Nothing
+	What I will do today: Try to fix what happens when either timer reaches 0, and try to get the timer working when
+	undo is pressed.
+	Obstacles I face:
+
+Nov 10,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 11,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 12,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 13,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 14,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 15,2019
+	What I did yesterday: Nothing
+	What I will do today: Finish US1.09
+	Obstacles I face: Fixing the timer when the undo button is pressed.
+
+Nov 16,2019
+	What I did yesterday: Worked on fixing undo for US1.09
+	What I will do today: Finish US1.09 completely
+	Obstacles I face: Integer pass by value
+
+Nov 17,2019
+	What I did yesterday: Finished US1.09
+	What I will do today: Finish BUG1.09, 1.091, 1.092, 1.093
+	Obstacles I face: GUI Rectangles and stuff
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
