@@ -1,5 +1,5 @@
 # OthelloApp
-Othello game application made in university in a software design course in a group of 4 using JavaFX. You can play this game against another human player, or you can play against three different AI that have different strategies. You can also reset, undo and get three different types of hints.
+Othello game application made in university in a software design course in a group of 4 using JavaFX. You can play this game against another human player, or you can play against three different AI that have different strategies. You can also reset, undo and get three different types of hints. We also used scrum methodology to coordinate our tasks among team members and to maintain steady progress.
 
 ## Members
 - Adrian Lam
